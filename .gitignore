@@ -1,0 +1,12 @@
+/nbproject/private/
+/dist/
+/build/
+manifest.mf
+
+# OS generated files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
